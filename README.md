@@ -1,5 +1,11 @@
 # Employee Attrition Prediction
 
+## Live Demo
+
+Try the application here:
+
+https://hr-employee-attrition-prediction-9g7qdbpqmqvdykky8vhsas.streamlit.app
+
 ## Project Overview
 
 Employee attrition is a major challenge for organizations as it impacts productivity, recruitment costs, and overall business performance.
@@ -128,4 +134,4 @@ streamlit run app.py
 ## Author
 
 Ayushi Dhimmar
-"# HR-Employee-Attrition-Prediction" 
+"# HR-Employee-Attrition-Prediction"
